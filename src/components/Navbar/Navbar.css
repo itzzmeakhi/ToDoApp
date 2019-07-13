@@ -1,0 +1,12 @@
+/* CSS STYLE SHEETS */
+
+header {
+    background-color: #38ada9;
+    color: #ffffff;
+    padding: 10px;
+    /*box-shadow: 5px 7px 5px 7px #888888;*/
+}
+
+.yellow {
+    background-color: #ff9f43;
+}
